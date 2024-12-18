@@ -1,41 +1,94 @@
+
 {"name": "REPLAY TV",
 "author": "CATEGORÍAS",
-"url": "https://raw.githubusercontent.com/Etelio79/Wiseyplay2/refs/heads/main/.w3u",
+"url": "https://raw.githubusercontent.com/Etelio79/Categor-as2/refs/heads/main/.w3u",
 "image": "https://yourclubox.com/box/Logos/img1.png",
 "groups": [
 
 {"name": "CINE & SERIES",
 "image": "https://img.freepik.com/vector-premium/banner-cine-cine_108855-11.jpg",
-"url": "https://yourclubox.com/box/w3u/cine.txt"},
+"url": "https://clubox.top/club/W3U/cine.txt"},
 
 {"name": "ZONA DEPORTIVA",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD3ZoTx6pNX2LC3qMdugERV9zW7g2NnlgpyhKXlnUnSQ&s",
-"url": "https://yourclubox.com/box/w3u/Zona_Deportiva.txt"},
+"url": "https://clubox.top/club/W3U/Zona_Deportiva.txt"},
 
 {"name": "PLUTO TV",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq9BoBuo4j16aD5WguyoMWsRAKmZU6cD668A&usqp=CAU",
-"url": "https://yourclubox.com/box/w3u/Pluto_tv.txt"},
+"url": "https://clubox.top/club/W3U/Pluto_tv.txt"},
 
 {"name": "CANELA TV",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_6UA9L3K5qhiwETAPDlBNrvt51i1hiCli9w&usqp=CAU",
-"url": "https://yourclubox.com/box/w3u/Canela_tv.txt"},
+"url": "https://clubox.top/club/W3U/Canela_tv.txt"},
 
 {"name": "RAKUTEN TV",
 "image": "https://i0.wp.com/thefutureoftheforce.com/wp-content/uploads/2023/04/Rakuten-TV-Header.jpg?fit=640%2C360&ssl=1",
-"url": "https://yourclubox.com/box/w3u/Rakuten_tv.txt"},
+"url": "https://clubox.top/club/W3U/Rakuten_tv.txt"},
 
 {"name": "RUNTIME TV",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaLQAf8Jkt9ahqwuE3wTnZlIVMr-6UCevBeQ&usqp=CAU",
-"url": "https://yourclubox.com/box/w3u/Runtime_tv.txt"},
+"url": "https://clubox.top/club/W3U/Runtime_tv.txt"},
  
 {"name": "INFANTILES",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhHMDpcOWvTC1eKzPhhlwNJq5Cp943i8gBwA&usqp=CAU",
-"url": "https://yourclubox.com/box/w3u/Infantil.txt"},
+"url": "https://clubox.top/club/W3U/Infantil.txt"},
 
 {"name": "CULTURALES",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTujnfnYU_jqEY0zyLU2z5bhaxeHTRXajjkdA&usqp=CAU",
-"url": "https://yourclubox.com/box/w3u/Cultural.txt"},
+"url": "https://clubox.top/club/W3U/Cultural.txt"},
 
 {"name": "COLOMBIA",
 "image": "https://i.revistapym.com.co/old/2016/09/Colombia3OK-1.png",
-"url": "https://yourclubox.com/box/w3u/Colombia.txt"}]},
+"url": "https://clubox.top/club/W3U/Colombia.txt"},
+
+{"name": "COSTA RICA",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ-S6S-J5q3jiLhVpj_cSq0fVw7ic7n60OZA&usqp=CAU",
+"url": "https://clubox.top/club/W3U/Costa_Rica.txt"},
+
+{"name": "EL SALVADOR",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREL478uO2-D2SWxGmCYNswIwxMdsZtHqMjUA&usqp=CAU",
+"url": "https://raw.githubusercontent.com/Melvin07Romero/ROMERO-TV/refs/heads/main/.w3u"},
+
+{"name": "PARAGUAY",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsHWi_p5yEC789_NaODWOJwB1iEFFjZL1j0IjYn_pKAQ&s",
+"url": "https://clubox.top/club/W3U/Paraguay.txt"},
+
+{"name": "CHILE",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA0cLxnnnCgXijpRJSJBIsllhhUM8KcxS-ny6zp3RPBQ&s",
+"url": "https://clubox.top/club/W3U/Chile.txt"},
+
+{"name": "ARGENTINA",
+"image": "https://i.ytimg.com/vi/6Mua1S47S04/mqdefault.jpg",
+"url": "https://clubox.top/club/W3U/Argentina.txt"},
+
+{"name": "VENEZUELA",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlqIsxt4Fetavf-JlIRRnylDAU_zCIMVYUmA&usqp=CAU",
+"url": "https://clubox.top/club/W3U/Venezuela.txt"},
+
+{"name": "PERÚ",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEOqd-MYJLYnSLOZ-vOxRoCzllxZ5xopqtZQ&usqp=CAU",
+"url": "https://clubox.top/club/W3U/Peru.txt"},
+
+{"name": "NICARAGUA",
+"image": "https://i.ytimg.com/vi/pDu5-WWXPO0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCuPJ93L7zFpVXQ_oChhMDe68Heew",
+"url": "https://clubox.top/club/W3U/Nicaragua.txt"},
+
+{"name": "ESPAÑA",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtRGDOFTf3bpY6ICcu67GKHsRhYcegcIyeIw&usqp=CAU",
+"url": "https://raw.githubusercontent.com/Puerta33/ESPA-A/refs/heads/main/.w3u"},
+
+{"name": "MEXICO",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRlWJ7RawjavqAtEP-Ykl3igyznVFrIFjD21g-5ToGBA&s",
+"url": "https://raw.githubusercontent.com/Kenai025/Mexico/refs/heads/main/.w3u"},
+
+{"name": "URUGUAY",
+"image": "https://i.ytimg.com/vi/a6yVFDN5K40/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBG17l96STmxYbzU5fu8AH3-m-Gug",
+"url": "https://raw.githubusercontent.com/Protonn03/Uruguay-/refs/heads/main/.w3u"},
+
+{"name": "ESTADOS UNIDOS",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSJNnP5QAoW_Aw1lim_8SOXjHKonlwtukQdQ&usqp=CAU",
+"url": "https://raw.githubusercontent.com/Puerta33/EE.UU/refs/heads/main/.w3u"},
+
+{"name": "INFORMACIÓN IMPORTANTE",
+"image": "https://i.ibb.co/TPMqJ72/atencion.png",
+"url": "https://raw.githubusercontent.com/Etelio79/Informaci-n/refs/heads/main/.w3u"}]},
